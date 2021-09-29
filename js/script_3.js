@@ -33,4 +33,5 @@ const generator = {
         return generateInsult;
     }()),
 };
+
 generator.init();
