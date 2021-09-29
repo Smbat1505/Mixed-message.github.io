@@ -1,3 +1,2 @@
 # Mixed-Projec
-# mix-message.github.io
-# mix-message.github.io
+# Smbat1505.github.io
