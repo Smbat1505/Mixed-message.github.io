@@ -1,2 +1,2 @@
-# Mixed-Projec
-# Smbat1505.github.io
+# Mixed-Projec.github.io
+# Smbat1505/Mixed-Projec.github.io
